@@ -1,0 +1,1 @@
+console.log('Text di console log ini ditampikan dengan External JS');
